@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Art-Gallery/static/css/main.fbaebfa7.css",
-    "main.js": "/Art-Gallery/static/js/main.58155660.js",
+    "main.css": "/Art-Gallery/static/css/main.37c06018.css",
+    "main.js": "/Art-Gallery/static/js/main.88276a23.js",
     "static/js/787.deb27cb7.chunk.js": "/Art-Gallery/static/js/787.deb27cb7.chunk.js",
     "static/media/starrynight.png": "/Art-Gallery/static/media/starrynight.454df7ba63acda76833b.png",
     "static/media/greatwave.png": "/Art-Gallery/static/media/greatwave.e6f850b698c74ef6e1d1.png",
     "static/media/girlwithpearl.png": "/Art-Gallery/static/media/girlwithpearl.6a399b58c19a1c836abe.png",
     "static/media/monalisa.png": "/Art-Gallery/static/media/monalisa.6150a41758c80db75fc6.png",
     "index.html": "/Art-Gallery/index.html",
-    "main.fbaebfa7.css.map": "/Art-Gallery/static/css/main.fbaebfa7.css.map",
-    "main.58155660.js.map": "/Art-Gallery/static/js/main.58155660.js.map",
+    "main.37c06018.css.map": "/Art-Gallery/static/css/main.37c06018.css.map",
+    "main.88276a23.js.map": "/Art-Gallery/static/js/main.88276a23.js.map",
     "787.deb27cb7.chunk.js.map": "/Art-Gallery/static/js/787.deb27cb7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbaebfa7.css",
-    "static/js/main.58155660.js"
+    "static/css/main.37c06018.css",
+    "static/js/main.88276a23.js"
   ]
 }
